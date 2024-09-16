@@ -1,0 +1,86 @@
+body {
+
+background:radial-gradient(circle, #cdffd8, #94b9ff);
+}
+
+
+
+
+
+li {
+
+
+    display:inline-block;
+    font-family:"Orbitron", serif;
+    font-size:xx-large;
+    text-decoration: underline;
+    font-weight: bold;
+    width:320px;
+    margin-bottom: 150px;
+    
+}
+
+
+a {
+
+    display:inline;
+    width: 2880px;
+    height:100px;
+    margin-bottom:150px;
+
+}
+
+a:link, a:visited {
+
+    color:black;
+}
+
+h1{
+
+    text-decoration: underline;
+    font-family:"Orbitron", serif;
+}
+
+#news {
+
+margin-bottom:10px;
+
+}
+
+#about  {
+
+    text-align:center;
+}
+
+#contact {
+
+    font-size:large;
+}
+
+#career {
+
+    text-align:center;
+}
+
+
+p {
+
+    font-family:"Roboto slab", serif;
+    font-size:large;
+}
+
+address {
+font-style:normal
+
+}
+
+
+.images img {
+
+    /*display:inline-block;*/
+    margin:20px;
+    
+   
+    
+
+}
